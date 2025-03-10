@@ -5,6 +5,19 @@
 ⚙️ - Previously used to do projects based on Mechanics, Robotics and Design, now pursuing my path in the world of computing! <br>
 ♟️ - Always open to learn everything, understanding, and make the impossible possible. <br>
 
+---
+<table align=center border="0">
+ <tr>
+    <td><b style="font-size:30px">Languages</b></td>
+    <td><b style="font-size:30px">Software / Tools</b></td>
+ </tr>
+ <tr>
+    <td>tbd</td>
+    <td>tbd</td>
+ </tr>
+</table>
+
+---
 <div>
     <h2 align=left> Github Stats</h2>
 </div>
