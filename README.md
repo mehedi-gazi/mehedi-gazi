@@ -9,7 +9,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/mehedi-gazi/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:xn.m2977@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -27,8 +27,14 @@
     <tr>
       <td>
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" <br>
-        - JavaScript <br>
-        - C++
+        <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/html-000000.svg?style=for-the-badge&logo=html5&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/css-000000.svg?style=for-the-badge&logo=css3&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite" <br>
+        <img src="https://img.shields.io/badge/lua-000000.svg?style=for-the-badge&logo=lua&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash" <br>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20(VSC)-000000?style=for-the-badge" <br>
@@ -37,23 +43,27 @@
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" <br>
         <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark" <br>
         <img src="https://img.shields.io/badge/SolidWorks%202022-000000?style=for-the-badge&logo=dassaultsystemes" <br>
+        <img src="https://img.shields.io/badge/Blender%20v4.0-000000?style=for-the-badge&logo=blender" <br>
         <img src="https://img.shields.io/badge/Codecademy-000000?style=for-the-badge&logo=codecademy&logoColor=white" <br>
         <img src="https://img.shields.io/badge/VirtualBox%20(Oracle)-000000?style=for-the-badge&logo=virtualbox" <br>
         <img src="https://img.shields.io/badge/Netbeans%20IDE-000000?style=for-the-badge&logo=apachenetbeanside" <br>
         <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp" <br>
         <img src="https://img.shields.io/badge/Powershell%20%2F%20UNIX-000000?style=for-the-badge&logo=gnometerminal" <br>
-        <img src"https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" <>
+        <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/Windows%20Terminal-000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
       </td>
       <td>
-        
-        <img src="" <br>
-        <img src="" <br>
-        <img src="" <br>
-        <img src="" <br>
-        
-        
+        <img src="https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=white" <br>
+        <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss" <br>
+        <img src="https://img.shields.io/badge/Laravel%20%2B%20Herd-000000?style=for-the-badge&logo=laravel" <br>
+        <img src="https://img.shields.io/badge/PyTest-000000?style=for-the-badge&logo=pytest" <br>
+        <img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5" <br>
+        <img src="https://img.shields.io/badge/OpenSSL-000000?style=for-the-badge&logo=openssl" <br>
+        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" <br>
+        <img src="https://img.shields.io/badge/Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter" <br>
       </td>
-      
     </tr>
   </table>
 </div>
