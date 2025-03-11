@@ -5,17 +5,39 @@
 ⚙️ - Previously used to do projects based on Mechanics, Robotics and Design, now pursuing my path in the world of computing! <br>
 ♟️ - Always open to learn everything, understanding, and make the impossible possible. <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehedi-gazi/">
+    <img style="margin-right: 20px;" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=portfolio">
+  </a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio">
+</div>
+
+
+
+
+
 ---
-<table align=center border="0">
- <tr>
-    <td><b style="font-size:30px">Languages</b></td>
-    <td><b style="font-size:30px">Software / Tools</b></td>
- </tr>
- <tr>
-    <td>tbd</td>
-    <td>tbd</td>
- </tr>
-</table>
+<div align="center">
+  <table style="width:100%; table-layout: fixed; border-collapse: collapse;">
+    <tr>
+      <th style="text-align: center; font-size: 20px;">Languages</th>
+      <th style="text-align: center; font-size: 20px;">Software / Tools</th>
+    </tr>
+    <tr>
+      <td>
+        - Python <br>
+        - JavaScript <br>
+        - C++
+      </td>
+      <td>
+        - Visual Studio Code (VSC <br>
+        - GitHub <br>
+        - Docker
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 <div>
@@ -25,12 +47,12 @@
     <tr>
         <td colspan="2" rowspan="2">
             <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=mehedi-gazi&theme=cobalt">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-gazi&layout=compact&theme=great-gatsby">
             </a>
         </a>
         </td>
         <td colspan="2" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api?username=mehedi-gazi&theme=github_dark&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=mehedi-gazi&theme=great-gatsby&show_icons=true">
         </a>
         </td>
     </tr>
