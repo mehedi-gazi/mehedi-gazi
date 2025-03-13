@@ -87,17 +87,24 @@
         </td>
     </tr>
 </table>
-<!--
-**mehedi-gazi/mehedi-gazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="left">
+  <table style="width:100%; table-layout: fixed; border-collapse: collapse;">
+    <tr>
+      <th style="text-align: center; font-size: 20px;">Objectives</th>
+    </tr>
+    <tr>
+      <td>
+        - Obtaining Internship (Professionally to further career advancement) <br>
+        - Creation of <i>v1 Portfolio and revisions of GitHub and LinkedIn + CV<i> <br>
+        - Completion of Full Stack Engineer Cert, Machine Learning Cert, CS50x Cert, and relevant certs to further my knowledge in computing <br>
+        - Completion of Virtual Work Experience Projects + Further support projects <br>
+        - Building a foundation on project based learning, and pure passion, as shown before in mechanics and project management and production <br>
+        - En-route to obtain 1st class quality on my degree, reminiscing the previous awards in Primary School, Secondary School and External Activities. <br>
+        - My objective is to be the best, outstand from others, contribute and give fresh ideas to the table, and to proceed effectively in the years to come. <br>
+      </td>
+    </tr>
+  </table>
+</div>
