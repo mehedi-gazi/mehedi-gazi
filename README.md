@@ -76,14 +76,10 @@
 <table>
     <tr>
         <td colspan="2" rowspan="2">
-            <a href = "https://git.io/streak-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-gazi&layout=compact&theme=great-gatsby">
-            </a>
-        </a>
         </td>
         <td colspan="2" rowspan="2">
         <img src="https://github-readme-stats.vercel.app/api?username=mehedi-gazi&theme=great-gatsby&show_icons=true">
-        </a>
         </td>
     </tr>
 </table>
