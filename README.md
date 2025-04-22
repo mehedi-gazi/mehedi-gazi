@@ -76,7 +76,7 @@
 <table>
     <tr>
         <td colspan="2" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-gazi&layout=compact&theme=great-gatsby">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-gazi&layout=compact&theme=great-gatsby&langs_count=10&exclude_repo=Test-Repo,Docs,Portfolio-v1">
         </td>
         <td colspan="2" rowspan="2">
         <img src="https://github-readme-stats.vercel.app/api?username=mehedi-gazi&theme=great-gatsby&show_icons=true">
